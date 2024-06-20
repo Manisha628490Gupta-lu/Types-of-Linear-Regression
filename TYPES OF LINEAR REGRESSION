@@ -1,0 +1,23 @@
+Types of Linear Regression:The interpretability of linear regression is a notable strength. The model’s equation provides clear coefficients that elucidate the impact of each independent variable on the dependent variable, facilitating a deeper understanding of the underlying dynamics. Its simplicity is a virtue, as linear regression is transparent, easy to implement, and serves as a foundational concept for more complex algorithms.
+
+There are two main types of linear regression:
+
+# SIMPLE LINEAAR REGRESSION:
+This is the simplest form of linear regression, and it involves only one independent variable and one dependent variable. The equation for simple linear regression is:
+𝑦 = 𝛽0+𝛽1𝑋
+where:
+Y is the dependent variable
+X is the independent variable
+β0 is the intercept
+β1 is the slope
+
+# MULTIPLE LINEAR REGRESSION:
+
+This involves more than one independent variable and one dependent variable.The equation for multiple linear regression is:
+𝑦=𝛽0+𝛽1𝑋+𝛽2𝑋+………𝛽𝑛X
+where:
+Y is the dependent variable
+X1, X2, …, Xp are the independent variables
+β0 is the intercept
+β1, β2, …, βn are the slopes
+
